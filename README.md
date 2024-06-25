@@ -18,42 +18,42 @@ The analysis uses temporal and statistical methods to decompose London data from
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Monthly Trend for Drugs Arrest: <br/>
 <img src="https://i.imgur.com/D9jAWZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Observed, Trend, Seasonally for Drug arrest:  <br/>
 <img src="https://i.imgur.com/PYKRrP8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Observed vs fitted values for monthly drug arrest: <br/>
 <img src="https://i.imgur.com/yBngfec.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Residual & Distribution analysis:  <br/>
 <img src="https://i.imgur.com/IgZTF46.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Observed vs fitted values for monthly anything to threaten or harm anyone:  <br/>
 <img src="https://i.imgur.com/P9z1e8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Observed, Trend, Seasonally for anything to threaten or harm anyone:  <br/>
 <img src="https://i.imgur.com/WYnxNlY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Observed vs fitted values for a monthly article for use in criminal damage:  <br/>
 <img src="https://i.imgur.com/wISJKpl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Wait for process to complete (may take some time):  <br/>
+Observed, Trend, Seasonally for article for use in criminal damage:  <br/>
 <img src="https://i.imgur.com/oIwaTh1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Observed vs fitted values for monthly firearms:  <br/>
 <img src="https://i.imgur.com/JZZc6O0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Observed, Trend, Seasonally for firearms:  <br/>
 <img src="https://i.imgur.com/NhTzNtQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <!--
