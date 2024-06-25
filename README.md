@@ -13,7 +13,7 @@ The analysis uses temporal and statistical methods to decompose London data from
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+- <b>Windows 11 PRO</b> 
 
 <h2>Program walk-through:</h2>
 
