@@ -1,12 +1,12 @@
 <h1>- London S&S time series Decomposition</h1>
 
-<h1>-Analysis Describtion
+<h1>-Analysis Description
 <h2></h2>
 The analysis uses temporal and statistical methods to decompose London data from the time series, identifying seasonal patterns and trends in arrests related to specific search objects, such as controlled drugs, firearms, offensive weapons, and stolen goods. It involves resampling the data every month and applying models like ARIMA and linear regression to predict and visualize trends
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>Python</b> 
 
