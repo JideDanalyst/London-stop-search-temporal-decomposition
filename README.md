@@ -22,7 +22,7 @@ Monthly Trend for Drugs Arrest: <br/>
 <img src="https://i.imgur.com/D9jAWZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observed, Trend, Seasonally for Drug arrest:  <br/>
+Observed, Trend, Seasonality for Drug arrest:  <br/>
 <img src="https://i.imgur.com/PYKRrP8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -38,14 +38,14 @@ Observed vs fitted values for monthly anything to threaten or harm anyone:  <br/
 <img src="https://i.imgur.com/P9z1e8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observed, Trend, Seasonally for anything to threaten or harm anyone:  <br/>
+Observed, Trend, Seasonality for anything to threaten or harm anyone:  <br/>
 <img src="https://i.imgur.com/WYnxNlY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observed vs fitted values for a monthly article for use in criminal damage:  <br/>
 <img src="https://i.imgur.com/wISJKpl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Observed, Trend, Seasonally for article for use in criminal damage:  <br/>
+Observed, Trend, Seasonality for article for use in criminal damage:  <br/>
 <img src="https://i.imgur.com/oIwaTh1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -53,7 +53,7 @@ Observed vs fitted values for monthly firearms:  <br/>
 <img src="https://i.imgur.com/JZZc6O0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observed, Trend, Seasonally for firearms:  <br/>
+Observed, Trend, Seasonality for firearms:  <br/>
 <img src="https://i.imgur.com/NhTzNtQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <!--
